@@ -1334,4 +1334,9 @@ B WBYM
 S  STU
 L   HW
 
+# little key/find in Shrine
+M
+C
+J
+
 // This is very incomplete!
